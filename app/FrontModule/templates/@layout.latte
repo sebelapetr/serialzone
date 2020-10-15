@@ -1,0 +1,23 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="{$basePath}/css/style.css">
+</head>
+
+<div class="page">
+
+    <div class="header">
+        <a href="{$basePath}"><h2>SerialZone</h2></a>
+    </div>
+
+    <div class="menu">
+        <a n:href=":Front:Homepage:default">Home</a>
+        <a n:if="!$user->isLoggedIn()" n:href=":Back:LogIn:default">Login</a>
+        <a n:if="$user->isLoggedIn()" n:href=":Back:HomePage:default">Control panel</a>
+        <a n:if="$user->isLoggedIn()" n:href="logout!">LogOut</a>
+    </div>
+
+    {foreach $flashes as $flash}
+        {$flash->message}
+    {/foreach}
+    {include #content}
+
+</div>

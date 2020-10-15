@@ -1,0 +1,16 @@
+{block content}
+<div class="container">
+    {foreach $serials as $serial}
+        <div class="serial">
+            <h3>{$serial->name}</h3>
+            <ul>
+            {foreach $serial->serie as $serie}
+                <li>
+                    <a href="{link Series:default $serie->id}">{$serie->name}</a>
+                </li>
+            {/foreach}
+            </ul>
+        </div>
+    {/foreach}
+</div>
+

@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<serials>
+    <serial>
+        <name>Před pikolou za pikolou</name>
+        <description>Jachachachachá</description>
+        <series>
+            <serie>
+                <name>Série 1</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Lípa</name>
+                        <description>Trurururu</description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Ořech</name>
+                        <description>rururururuT</description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Bříza</name>
+                        <description>rururururuT</description>
+                    </episode>
+                </episodes>
+            </serie>
+            <serie>
+                <name>Série 2</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Orangutan</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Kosmopolitan</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Forbes</name>
+                        <description></description>
+                    </episode>
+                </episodes>
+            </serie>
+        </series>
+    </serial>
+    <serial>
+        <name>Velký plamen</name>
+        <description>Traaaaaaaaaaaaa</description>
+        <series>
+            <serie>
+                <name>Série 1</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Kuku</name>
+                        <description>Trurururu</description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Ruku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Kluku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                </episodes>
+            </serie>
+            <serie>
+                <name>Série 2</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Šaaaaaa</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Šeeeeee</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Šiiiii</name>
+                        <description></description>
+                    </episode>
+                </episodes>
+            </serie>
+        </series>
+    </serial>
+    <serial>
+        <name>Pop star</name>
+        <description>Traaaaaaaaaaaaa</description>
+        <series>
+            <serie>
+                <name>Série 1</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Kuku</name>
+                        <description>Trurururu</description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Ruku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Kluku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                </episodes>
+            </serie>
+            <serie>
+                <name>Série 2</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Šaaaaaa</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Šeeeeee</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Šiiiii</name>
+                        <description></description>
+                    </episode>
+                </episodes>
+            </serie>
+        </series>
+    </serial>
+    <serial>
+        <name>Hodný zlý</name>
+        <description>Traaaaaaaaaaaaa</description>
+        <series>
+            <serie>
+                <name>Série 1</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Kuku</name>
+                        <description>Trurururu</description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Ruku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Kluku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                </episodes>
+            </serie>
+            <serie>
+                <name>Série 2</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Šaaaaaa</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Šeeeeee</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Šiiiii</name>
+                        <description></description>
+                    </episode>
+                </episodes>
+            </serie>
+        </series>
+    </serial>
+    <serial>
+        <name>ObrZilla</name>
+        <description>Traaaaaaaaaaaaa</description>
+        <series>
+            <serie>
+                <name>Série 1</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Kuku</name>
+                        <description>Trurururu</description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Ruku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Kluku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                </episodes>
+            </serie>
+            <serie>
+                <name>Série 2</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Šaaaaaa</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Šeeeeee</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Šiiiii</name>
+                        <description></description>
+                    </episode>
+                </episodes>
+            </serie>
+        </series>
+    </serial>
+    <serial>
+        <name>Jaguár</name>
+        <description>Traaaaaaaaaaaaa</description>
+        <series>
+            <serie>
+                <name>Série 1</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Kuku</name>
+                        <description>Trurururu</description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Ruku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Kluku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                </episodes>
+            </serie>
+            <serie>
+                <name>Série 2</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Šaaaaaa</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Šeeeeee</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Šiiiii</name>
+                        <description></description>
+                    </episode>
+                </episodes>
+            </serie>
+        </series>
+    </serial>
+    <serial>
+        <name>Pomoc</name>
+        <description>Traaaaaaaaaaaaa</description>
+        <series>
+            <serie>
+                <name>Série 1</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Kuku</name>
+                        <description>Trurururu</description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Ruku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Kluku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                </episodes>
+            </serie>
+            <serie>
+                <name>Série 2</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Šaaaaaa</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Šeeeeee</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Šiiiii</name>
+                        <description></description>
+                    </episode>
+                </episodes>
+            </serie>
+        </series>
+    </serial>
+    <serial>
+        <name>Rychlá loď</name>
+        <description>Traaaaaaaaaaaaa</description>
+        <series>
+            <serie>
+                <name>Série 1</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Kuku</name>
+                        <description>Trurururu</description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Ruku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Kluku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                </episodes>
+            </serie>
+            <serie>
+                <name>Série 2</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Šaaaaaa</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Šeeeeee</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Šiiiii</name>
+                        <description></description>
+                    </episode>
+                </episodes>
+            </serie>
+        </series>
+    </serial>
+    <serial>
+        <name>Rum, bum</name>
+        <description>Traaaaaaaaaaaaa</description>
+        <series>
+            <serie>
+                <name>Série 1</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Kuku</name>
+                        <description>Trurururu</description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Ruku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Kluku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                </episodes>
+            </serie>
+            <serie>
+                <name>Série 2</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Šaaaaaa</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Šeeeeee</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Šiiiii</name>
+                        <description></description>
+                    </episode>
+                </episodes>
+            </serie>
+        </series>
+    </serial>
+    <serial>
+        <name>Ruka, noha</name>
+        <description>Traaaaaaaaaaaaa</description>
+        <series>
+            <serie>
+                <name>Série 1</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Kuku</name>
+                        <description>Trurururu</description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Ruku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Kluku</name>
+                        <description>rururururuT</description>
+                    </episode>
+                </episodes>
+            </serie>
+            <serie>
+                <name>Série 2</name>
+                <episodes>
+                    <episode>
+                        <name>e1 - Šaaaaaa</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e2 - Šeeeeee</name>
+                        <description></description>
+                    </episode>
+                    <episode>
+                        <name>e3 - Šiiiii</name>
+                        <description></description>
+                    </episode>
+                </episodes>
+            </serie>
+        </series>
+    </serial>
+</serials>

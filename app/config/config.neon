@@ -1,0 +1,30 @@
+parameters:
+
+
+application:
+	errorPresenter: Error
+	mapping:
+		Back: Serialzone\BackModule\Presenters\*Presenter
+		Front: Serialzone\FrontModule\Presenters\*Presenter
+		*: App\*Module\Presenters\*Presenter
+
+
+session:
+	expiration: 14 days
+
+
+services:
+	router: App\RouterFactory::createRouter
+	- Serialzone\BackModule\Forms\ILoginFormFactory
+	- Serialzone\BackModule\Forms\IRegisterFormFactory
+	- Serialzone\BackModule\Forms\IAddSerialFormFactory
+	- Serialzone\Model\UserRegistrationService
+	- Serialzone\Model\AddSerialService
+	- Serialzone\Model\Security\Authenticator
+
+extensions:
+    dbal: Nextras\Dbal\Bridges\NetteDI\DbalExtension
+    orm: Nextras\Orm\Bridges\NetteDI\OrmExtension
+
+orm:
+    model: Serialzone\Model\Orm

@@ -1,0 +1,15 @@
+{block content}
+<div class="container">
+    <h1>{$series->serial->name}</h1>
+    <p>{$series->serial->description}</p>
+    <h2>{$series->name}</h2>
+    <h3>Epizody:</h3>
+    <ul>
+    {foreach $series->episodes as $episode}
+        <li>
+            <a href="{link Episode:default $episode->id}">{$episode->name}</a>
+        </li>
+    {/foreach}
+    </ul>
+</div>
+
